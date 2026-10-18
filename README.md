@@ -16,9 +16,6 @@
   <a href="https://leetcode.com/u/Krishan_2005">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  <a href="https://github.com/krishan2005op">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </p>
 
 </div>
@@ -27,15 +24,15 @@
 
 ## About Me
 
-- 🎓 B.E. in **Electronics and Computer Engineering** at **Thapar Institute of Engineering & Technology** (2023–2027).
-- 💻 Interested in **backend development, full-stack engineering, AI-powered applications, and cloud technologies**.
-- 🛠️ I enjoy building practical projects involving REST APIs, databases, workflow automation, and AI integrations.
-- 🌱 Currently strengthening my skills in backend systems, system design, and problem-solving.
-- 🏆 **NatWest Code for Purpose Grand Finalist**, ranked in the Top 10 out of 500+ teams.
+-  B.E. in **Electronics and Computer Engineering** at **Thapar Institute of Engineering & Technology** (2023–2027).
+-  Interested in **backend development, full-stack engineering, AI-powered applications, and cloud technologies**.
+-  I enjoy building practical projects involving REST APIs, databases, workflow automation, and AI integrations.
+-  Currently strengthening my skills in backend systems, system design, and problem-solving.
+-  **NatWest Code for Purpose Grand Finalist**, ranked in the Top 10 out of 500+ teams.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -67,7 +64,7 @@
 
 ---
 
-## 💼 Experience
+##  Experience
 
 **Core Member, Tech Department · Google Developer Group (GDG) TIET**  
 *July 2024 – October 2025*
@@ -77,11 +74,10 @@
 
 ---
 
-## 🏅 Achievements & Certifications
+##  Achievements & Certifications
 
 - **NatWest Code for Purpose** - Grand Finalist, Top 10 out of 500+ teams.
 - **LeetCode Knight** - Competitive programming achievement.
-- **Micro1 Certified Software Engineer** - Technical Interview Certification.
 - **AWS APAC Solutions Architecture Virtual Experience Program** - Forage job simulation.
 - **HackHazards Global Hackathon** - The NAMESPACE Community.
 
