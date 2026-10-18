@@ -2,7 +2,7 @@
 
 # Hi, I'm Krishan Malhotra 👋
 
-<img src="https://komarev.com/ghpvc/?username=krishan2005op&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
 
 ### Electronics & Computer Engineering Student @ TIET | Full-Stack & Backend Developer
 
